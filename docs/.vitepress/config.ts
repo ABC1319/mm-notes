@@ -43,7 +43,7 @@ export default defineConfig({
       label: '目录',
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/abc1319' }],
 
     footer: {
       message: '如有转载或 CV 的请标注本站原文地址',
@@ -74,11 +74,11 @@ export default defineConfig({
 
     /*** 自定义配置 ***/
     visitor: {
-      badgeId: 'maomao1996.notes',
+      badgeId: 'abc1319.notes',
     },
 
     comment: {
-      repo: 'maomao1996/mm-notes',
+      repo: 'abc1319/mm-notes',
       repoId: 'MDEwOlJlcG9zaXRvcnkxNTc0ODc5Mjg=',
       category: 'Announcements',
       categoryId: 'DIC_kwDOCWMTOM4CZ2rf',
